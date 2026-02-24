@@ -1,12 +1,12 @@
 # 🌌 **BatchBot: The AI-Powered Discord Bot (Free & Open Source) 🚀**
 
-![BatchBot Logo](https://github.com/user-attachments/assets/76b8a6fa-168c-43f8-b9cf-6a439d90b063)
+![Ayash Bot](https://github.com/user-attachments/assets/76b8a6fa-168c-43f8-b9cf-6a439d90b063)
 
 ---
 
 ## **Introduction**
 
-BatchBot is a cutting-edge Discord bot powered by advanced AI models from **Google Gemini** and **Hugging Face**, designed to elevate your server experience with a futuristic, neon-infused aesthetic. Engage in natural conversations, analyze and generate images, get YouTube summaries, perform web searches, and much more – all for free!
+AyashBot is a cutting-edge Discord bot powered by advanced AI models from **Google Gemini** and **Hugging Face**, designed to elevate your server experience with a futuristic, neon-infused aesthetic. Engage in natural conversations, analyze and generate images, get YouTube summaries, perform web searches, and much more – all for free!
 
 ---
 
