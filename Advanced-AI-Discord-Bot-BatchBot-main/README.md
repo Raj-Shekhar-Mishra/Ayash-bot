@@ -19,18 +19,6 @@ Engage in dynamic and context-aware conversations using **Google Gemini AI** (Pr
 
 Upload images for detailed AI-powered analysis. BatchBot can identify objects, scenes, and even emotions within images. **New in v2.1:** Analyze multiple images at once!
 
-* **Object Detection Example:**
-    * **Prompt:** Detect the objects in this image
-    * ![bugatti_object_image](<img width="668" height="328" alt="image" src="https://github.com/user-attachments/assets/d7e6748d-7a24-4ae5-9dc6-ea19657687c6" />
-)
-
-* **Image Recognition Example:**
-    * ![Image Recognition Example](https://github.com/user-attachments/assets/0f57ab57-28ad-46d1-9863-0e10804e9719)
-
-### 🎥 **Video Processing**
-
-Upload videos for AI-powered analysis, identifying objects, scenes, and more.
-
 ### 🎨 **Image Generation**
 
 Create stunning visuals using Hugging Face's **Stable Diffusion** and other powerful models. Generate anything from artistic masterpieces to humorous memes.
