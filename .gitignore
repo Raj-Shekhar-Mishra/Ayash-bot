@@ -1,0 +1,12 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore logs
+system/log/
+
+# Ignore secret json files
+system/data/*.json
+
+# Ignore environment files
+.env
