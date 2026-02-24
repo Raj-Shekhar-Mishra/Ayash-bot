@@ -21,7 +21,8 @@ Upload images for detailed AI-powered analysis. BatchBot can identify objects, s
 
 * **Object Detection Example:**
     * **Prompt:** Detect the objects in this image
-    * ![bugatti_object_image](https://github.com/user-attachments/assets/c88bb44f-266b-4a59-aad0-34d59f025502)
+    * ![bugatti_object_image](<img width="668" height="328" alt="image" src="https://github.com/user-attachments/assets/d7e6748d-7a24-4ae5-9dc6-ea19657687c6" />
+)
 
 * **Image Recognition Example:**
     * ![Image Recognition Example](https://github.com/user-attachments/assets/0f57ab57-28ad-46d1-9863-0e10804e9719)
