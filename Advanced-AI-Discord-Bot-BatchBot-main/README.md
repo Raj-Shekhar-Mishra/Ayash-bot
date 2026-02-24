@@ -1,6 +1,4 @@
-# 🌌 **BatchBot: The AI-Powered Discord Bot (Free & Open Source) 🚀**
-
-![Ayash Bot](https://github.com/user-attachments/assets/76b8a6fa-168c-43f8-b9cf-6a439d90b063)
+# 🌌 **AyashBot: The AI-Powered Discord Bot (Free & Open Source) 🚀**
 
 ---
 
@@ -8,24 +6,10 @@
 
 AyashBot is a cutting-edge Discord bot powered by advanced AI models from **Google Gemini** and **Hugging Face**, designed to elevate your server experience with a futuristic, neon-infused aesthetic. Engage in natural conversations, analyze and generate images, get YouTube summaries, perform web searches, and much more – all for free!
 
----
-
-## **Videos**
-
-* **Demo:** A quick walkthrough of the basics to get you up and running.
-    [![Watch the Demo](https://img.shields.io/badge/Watch%20Demo-%F0%9F%93%BA-red)](https://youtu.be/ow-Cw8OLTdI)
-
-* **What's New in v1.5.0:** Learn about the latest features and improvements in this update video.
-    [![Watch the v1.5.0 Update Video](https://img.shields.io/badge/What%20's%20New%20in%20v1.5.0-%F0%9F%93%BA-red)](https://youtu.be/CiG4pMOyPUo?si=qCuVss8UxUCzIEim)
-
-* **In-Depth Setup Guide:** A comprehensive guide to setting up the code from scratch.
-    *Coming soon! Stay tuned for updates.*
-
----
 
 ## 🌟 **Features**
 
-BatchBot offers a rich suite of features powered by state-of-the-art AI:
+AyashBot offers a rich suite of features powered by state-of-the-art AI:
 
 ### 🤖 **AI Chat**
 
@@ -50,7 +34,7 @@ Upload videos for AI-powered analysis, identifying objects, scenes, and more.
 
 Create stunning visuals using Hugging Face's **Stable Diffusion** and other powerful models. Generate anything from artistic masterpieces to humorous memes.
 
-* **Expanded Model Choices (v2.0.0 & v2.1.0)**: BatchBot offers a wider selection of models, including specialized LoRAs (Low-Rank Adaptations) for unique styles:
+* **Expanded Model Choices (v2.0.0 & v2.1.0)**: AyashBot offers a wider selection of models, including specialized LoRAs (Low-Rank Adaptations) for unique styles:
     - `stabilityai/stable-diffusion-xl-base-1.0` (Default)
     - `stabilityai/stable-diffusion-3-medium-diffusers`
     - `ehristoforu/dalle-3-xl-v2`
@@ -77,7 +61,7 @@ Compose unique musical pieces using AI! The `/music` command uses Hugging Face m
 
 ### 📺 **YouTube Analysis**
 
-Get quick summaries and full transcripts from YouTube videos. BatchBot analyzes video URLs and extracts key information.
+Get quick summaries and full transcripts from YouTube videos. AyashBot analyzes video URLs and extracts key information.
 
 * **Enhanced YouTube Search (v2.0.0)**: More accurate and relevant results using the **DuckDuckGo Search API**.
 
